@@ -1,0 +1,11 @@
+[debug] Other repositories:
+[debug] 	FileRepository(publish-m2-local,FileConfiguration(true,None),Patterns(ivyPatterns=List(), artifactPatterns=List(C:/Users/wengbenjue/.m2/repository/[organisation]/[module](_[scalaVersion])(_[sbtVersion])/[revision]/[artifact]-[revision](-[classifier]).[ext]), isMavenCompatible=true, descriptorOptional=false, skipConsistencyCheck=false))
+[debug] Default repositories:
+[debug] 	Raw(ProjectResolver(inter-project, mapped: ))
+[debug] 	FileRepository(local,FileConfiguration(true,None),Patterns(ivyPatterns=List(${ivy.home}/local/[organisation]/[module]/(scala_[scalaVersion]/)(sbt_[sbtVersion]/)[revision]/[type]s/[artifact](-[classifier]).[ext]), artifactPatterns=List(${ivy.home}/local/[organisation]/[module]/(scala_[scalaVersion]/)(sbt_[sbtVersion]/)[revision]/[type]s/[artifact](-[classifier]).[ext]), isMavenCompatible=false, descriptorOptional=false, skipConsistencyCheck=false))
+[debug] 	public: http://repo1.maven.org/maven2/
+[debug] 	Spray repository: http://repo.spray.io
+[debug] 	cloudera-repo-releases: https://repository.cloudera.com/artifactory/repo/
+[debug] 	Typesafe repository: http://repo.typesafe.com/typesafe/releases/
+[debug] 	Typesafe Repo: http://repo.typesafe.com/typesafe/releases/
+[debug] Using inline dependencies specified in Scala.
